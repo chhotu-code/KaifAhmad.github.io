@@ -576,6 +576,10 @@ a {
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
+      .blog{
+        width: 350px;
+        height: 230px;
+      }
 
 .block-47 .block-47-image {
   -webkit-box-flex: 0;
